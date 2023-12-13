@@ -110,7 +110,7 @@ pipe_list = []
 
 # Tạo timer xuất hiện pipe
 spawnPipe = pygame.USEREVENT
-pygame.time.set_timer(spawnPipe, 1200)
+pygame.time.set_timer(spawnPipe, 2400)
 pipe_height = [100, 150, 200, 250]
 
 # Tạo màn hình KT
